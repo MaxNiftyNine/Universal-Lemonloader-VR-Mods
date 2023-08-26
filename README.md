@@ -1,2 +1,4 @@
-# Universal-Lemonloader-VR-Mods
-Universal Lemonloader Mods for VR
+# Universal Lemonloader Mods for VR
+1.TimeScale
+Hold A to speed up time
+
