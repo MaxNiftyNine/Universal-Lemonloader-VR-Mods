@@ -1,4 +1,4 @@
 # Universal Lemonloader Mods for VR
 1.TimeScale
-Hold A to speed up time
+Hold A or X to speed up time
 
